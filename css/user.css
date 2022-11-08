@@ -28,6 +28,7 @@ body {
   
   background: white;
   border: 166px;
+   height:auto;
   box-shadow: 0 0 12px 6px #e8e8e8;
   border-radius: 16px;
 }
